@@ -1,0 +1,7 @@
+Requerimientos: 
+ 
+# python3.12 -m pip --version
+# python3.12 -m pip install Pillow
+# python3.12 -m pip show Pillow
+ 
+Pillow==10.0.1
